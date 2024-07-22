@@ -1,8 +1,8 @@
 # Quarterly Report with Excel VBA
 
-Description: This *EXCEL VBA* based project consists of advance macros that are used for automating tasks to decrease manual work. Additionally, it also consists of userforms which helps users generate reports and more with just a click.
+Description: This *EXCEL VBA* based project consists of advance macros that are used for automating tasks to decrease manual work. Additionally, I developed a userform which helps users generate reports and more with just a click.
 
-The steps taken and macros used in this project are as follows:
+The process followed and macros developed in this project are as follows:
 
 1. InsertHeaders Macro:
    * Inserts a new row at the top of the sheet.
